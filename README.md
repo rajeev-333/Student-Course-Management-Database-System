@@ -73,7 +73,7 @@ A typical repo layout for this project:
 
 You can run these sequentially in MySQL Workbench.
 
-##How to Run
+## How to Run
 Install MySQL and open MySQL Workbench.
 
 Run 01_schema.sql to create the database and tables.
@@ -88,7 +88,7 @@ Use 04_queries.sql or write your own queries to explore the data:
 
   -CALL get_student_transcript(1);
 
-##Skills Demonstrated
+## Skills Demonstrated
 Relational database design and normalization (3NF)
 
 Use of primary and foreign keys for data integrity
